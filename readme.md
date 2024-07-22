@@ -75,8 +75,8 @@ Key features:
     in the terminal and you will be able to run both the models and create the their plots in one go. All the plots will also get saved in this very same folder. (Just make sure that when you try to run this file, you are in the same folder as the file.)
 4. ### **Explore:** Examine the generated plots and analyze the findings.
 
-    >[!NOTE]
-    >Make sure to uncomment the `plt.savefig('Q1-1.png')` (such lines) to also save the figure
+  >[!NOTE]
+  >Make sure to uncomment the `plt.savefig('Q1-1.png')` (such lines) to also save the figure
 
 
 ## Experiments and Results
